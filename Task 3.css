@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height:100%;
+    
+}
+#main{
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    color: #fff; 
+    background-color:black ;
+    
+   
+}
+#nav1{
+    font-size: 35px;
+    margin-left: 35px;
+    
+}
+
+#nav2{
+    
+    font: size 25px; ;
+    position: relative;
+    margin-left: 79%;
+    padding: 10px;
+}
+#nav2 i{
+    margin-top: -5%;
+    padding: 20px;font-family: sans-serif;
+    font-style: normal;
+}
+#check{
+    position: relative;
+    margin-left: 85%;
+    
+}
+#center h4{
+    position: relative;
+    z-index: 100;
+    margin-left: 20%;
+    font-size: 35px;
+    margin-top: 24.5vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#center h1{
+    
+    color:#fff;
+    font-size:25vw;
+    margin-top: -65px;
+    margin-left: -30%auto;
+    margin-bottom: 35%;
+    font-family: 'Times New Roman', Times, serif;
+}
+#dot{
+    position: absolute;
+    margin-left: 80%;
+    margin-top: -58%;
+    color: rgb(244, 242, 242);
+    transform: rotate(90deg);
+}
+
+
+#icon{
+    margin-top: -38%;
+    margin-left: 85%;
+    font-size: 27px;
+    color: rgb(250, 250, 250);
+    
+}
+
+
+
+#last1{
+    margin-top: -28px;
+    margin-left: 35px;
+    font-family: fantasy;
+}
+#last2 {
+    margin-top: -80px;
+    margin-left: 24%;
+    font-family: fantasy;
+}
+#dot i{
+    padding: 20px;
+    
+}
+#icon i{
+    padding: 20px;
+    color: rgb(252, 253, 255);
+}
+#last1 i{
+    color: blueviolet;
+    
+}
+#last2 i{
+    color: blue;
+}
+
+#image1{
+    position: absolute;
+    margin-top: -60%;
+    margin-left:22%;
+    clip-path: polygon(50% 90%, 0 0, 90% 0);
+    
+  
+}
+#image2{
+    position: absolute;
+    margin-top: -56%;
+    margin-left: 41%;
+    clip-path: polygon(46% 0%, 0% 100%, 100% 100%);
+
+}
