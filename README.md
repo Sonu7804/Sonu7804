@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Sonu7804
-- 👀 I’m interested in .Web Development..
-- 🌱 I’m currently learning .Java at pwskill..
-- 💞️ I’m looking to collaborate on .github..
-- 📫 How to reach me .DM me..
+# Hi there, I'm Sonu! 👋
 
-<!---
-Sonu7804/Sonu7804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📊 Data Engineer
+
+Working professional focused on building clean data pipelines and handling databases.
+
+---
+
+### 🚀 About Me
+- 💼 **What I do:** Build ETL/ELT pipelines and optimize SQL queries.
+- ⚙️ **Tech Stack:** Python 🐍, SQL 🗄️, Git & GitHub.
+- 👀 **Interested in:** Automation, Data Engineering, and Cloud.
+- 📫 **How to reach me:** Drop a Direct Message (DM) here.
