@@ -1,82 +1,153 @@
-# Hi there, I'm Sonu Kushwaha 👋
-### 🚀 Azure Data Engineer 
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sonu7804&label=Profile%20Views&color=0e75b6&style=flat" alt="Sonu7804" />
-</p>
+# Hi there, I'm <span style="color:#0078D4;">Sonu Kushwaha</span> 👋
+### ⚡ Azure Data Engineer 
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0089D6&center=true&vCenter=true&width=750&lines=Building+Scalable+Enterprise+Lakehouse+Platforms;Architecting+Medallion+DAGs+(Bronze+%E2%9E%94+Silver+%E2%9E%94+Gold);Expert+in+PySpark+Optimization+%26+FinOps;Securing+Pipelines+with+Azure+Key+Vault)](https://git.io/typing-svg)
 
-## 💫 About Me:
-
-I am an **Azure Data Engineer** focused on designing, orchestrating, and optimizing enterprise-grade, event-driven data pipelines and scalable **Lakehouse platforms**. My expertise spans **Azure Databricks, Apache Spark (PySpark), Delta Lake, and Azure Data Factory (ADF)**.
-
-* 🔭 Currently architecting **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** DAG pipelines in Databricks Workflows.
-* ⚡ Deep expertise in **PySpark Performance Optimization** (Broadcast Joins, Partition Pruning, Salting Skewed Data & Z-Ordering).
-* 💰 Cloud **FinOps & Cost Optimization** using ephemeral Job Clusters (saving 60–70% compute costs).
-* 🔐 Zero-trust security with **Azure Key Vault Secret Scopes** & Managed Identities.
-* 💬 Passionate about distributed computing, real-world bug troubleshooting (RCA), and high-throughput data pipelines.
-
----
-
-## 🌐 Socials & Connect:
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sonu7804/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Sonu7804" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:sonukushwah7804@gmail.com.com" target="_blank">
+  <a href="mailto:sonukushwah7804@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Sonu7804&label=Profile%20Views&color=0078D4&style=for-the-badge" alt="Views" />
 </p>
+
+</div>
+
+---
+
+## 💫 About Me:
+
+I am an **Azure Data Engineer** focused on designing, orchestrating, and optimizing enterprise-grade, event-driven data pipelines and scalable **Lakehouse platforms**. My core expertise lies in building resilient data workflows using **Azure Databricks, Apache Spark (PySpark), Delta Lake, and Azure Data Factory (ADF)**.
+
+* 🔭 **Current Focus:** Architecting modular **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** DAG pipelines in Databricks Workflows.
+* ⚡ **Performance Engineering:** Deep expertise in **PySpark Optimization** (Broadcast Hash Joins, Partition Pruning, Salting Skewed Data & Delta Z-Ordering).
+* 💰 **Cloud FinOps:** Slashing cloud compute spend by **60–70%** through ephemeral Job Clusters and optimized cluster lifecycle management.
+* 🔐 **Security & Governance:** Zero-trust architecture with **Azure Key Vault Secret Scopes**, RBAC, and Managed Identities.
+* 🛠️ **Problem Solver:** Strong emphasis on diagnosing real-world production bottlenecks (RCA), memory spills, and straggler tasks.
 
 ---
 
 ## 💻 Tech Stack & Cloud Ecosystem:
 
-### ☁️ Cloud & Orchestration:
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Azure Data Factory](https://img.shields.io/badge/Azure_ADF-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/products/data-factory/)
-[![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
-[![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![ADLS Gen2](https://img.shields.io/badge/Azure_ADLS_Gen2-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=azure-key-vault&logoColor=white)](https://azure.microsoft.com/)
-
-### ⚡ Big Data, Storage & Processing:
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
-[![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)](https://delta.io/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<table>
+  <tr>
+    <td width="25%" valign="top"><b>☁️ Cloud & Lakehouse</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/ADLS_Gen2-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=flat-square&logo=azure-key-vault&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>⚡ Distributed Compute</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+      <img src="https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=delta&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🔄 Orchestration & Ingestion</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Databricks_Workflows-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Event_Triggers-107C41?style=flat-square&logo=azure-pipelines&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🗄️ Databases & SQL</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/T--SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🛠️ Languages & Tools</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics & Streak:
+## 🏆 Featured Production Projects:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonu7804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sonu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu7804&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu7804&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="25%">Tech Stack</th>
+      <th width="40%">Architecture & Key Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b><a href="https://github.com/Sonu7804/Databricks_Workflows_JobClusters">🥉🥈🥇 Databricks Workflows Medallion DAG</a></b>
+      </td>
+      <td>
+        <code>Databricks Workflows</code><br/>
+        <code>PySpark</code><br/>
+        <code>Delta Lake</code><br/>
+        <code>Job Clusters</code>
+      </td>
+      <td>
+        • Multi-task DAG workflow with task-level isolation & repair runs.<br/>
+        • In-memory <code>taskValues</code> metadata state passing (0 storage I/O).<br/>
+        • <b>70% FinOps savings</b> via ephemeral automated Job Clusters.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/Sonu7804/azure-event-driven-data-pipeline">⚡ Azure Event-Driven Data Pipeline</a></b>
+      </td>
+      <td>
+        <code>Azure Data Factory</code><br/>
+        <code>Azure Key Vault</code><br/>
+        <code>ADLS Gen2</code><br/>
+        <code>Databricks</code>
+      </td>
+      <td>
+        • Real-time storage event trigger ingesting files on arrival.<br/>
+        • Zero-trust security using Key Vault Secret Scopes.<br/>
+        • Automated end-to-end orchestration and error alerting.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🏆 Featured Projects & Production Pipelines:
+## 📊 GitHub Analytics:
 
-| Project | Key Technologies | Description |
-| :--- | :--- | :--- |
-| 🥉🥈🥇 **[Databricks Workflows Medallion DAG](https://github.com/Sonu7804/Databricks_Workflows_JobClusters)** | Azure Databricks, PySpark, Delta Lake, Job Clusters | Multi-task DAG workflow with task-level isolation, in-memory `taskValues` state passing, and 70% FinOps cost optimization. |
-| ⚡ **[Azure Event-Driven Data Pipeline](https://github.com/Sonu7804/azure-event-driven-data-pipeline)** | ADF, Azure Key Vault, ADLS Gen2, Databricks | Event-based trigger architecture automatically ingesting arriving blobs with Key Vault secret-driven security. |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonu7804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu7804&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu7804&theme=tokyonight&hide_border=true" width="97%" />
+</div>
 
 ---
 
-<p align="center">
-  <i>⭐️ Sonu Kushwaha | Azure Data Engineer Portfolio</i>
-</p>
+<div align="center">
+  <sub>💡 <i>"Turning raw data into production-grade business insights through scalable Lakehouse engineering."</i></sub>
+  <br/>
+  <b>Sonu Kushwaha • Azure Data Engineer</b>
+</div>
